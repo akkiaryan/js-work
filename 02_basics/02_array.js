@@ -20,6 +20,6 @@ const allHeros = marvel_heros.concat(dc_heros)
 console.log(Array.isArray("akki"));
 console.log(Array.from("akki"));
 console.log(Array.from({name: "akki"})); // incase of this if no input is given then the string is given empty 
-
+//this is asked in the interviews 
 
 
